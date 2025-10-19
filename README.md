@@ -1,4 +1,4 @@
-# Solution to picoCTF WebNet1 Challenge
+# Solution to "picoCTF" WebNet1 Challenge
 I have finished the WebNet1 Challenge (Hard level) from PicoCTF, and here is the solution if you want to try:
 #
 ## Key Steps to Solve It:
